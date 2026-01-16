@@ -142,7 +142,7 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**Poojan Bansal**  
+**Poojan Bansal, Dhruv Soni, Piyush Sagatani**  
 Electrical Engineering  
 NSS Project – 2026
 
