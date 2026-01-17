@@ -1,5 +1,5 @@
 
-# 🩸 NSS Blood Donation Portal
+# 🩸 NGO Registration and Donation Management System Portal
 
 A full-stack web application built for NSS to manage blood donation registrations and donations with secure authentication, role-based access, and Razorpay **test-mode** payment integration.
 
@@ -21,7 +21,6 @@ A full-stack web application built for NSS to manage blood donation registration
 - Filter registrations
 - View all donations
 - Track payment status and timestamps
-- Export registrations as CSV
 
 ---
 
